@@ -1,0 +1,152 @@
+{"products":[{
+  "id": 1,
+  "product_name": "Tea - Darjeeling, Azzura",
+  "price": "Franc",
+  "stock": 21
+}, {
+  "id": 2,
+  "product_name": "Olives - Morracan Dired",
+  "price": "Ruble",
+  "stock": 8
+}, {
+  "id": 3,
+  "product_name": "Mushroom - Crimini",
+  "price": "Quetzal",
+  "stock": 98
+}, {
+  "id": 4,
+  "product_name": "Ostrich - Prime Cut",
+  "price": "Yuan Renminbi",
+  "stock": 60
+}, {
+  "id": 5,
+  "product_name": "Versatainer Nc - 9388",
+  "price": "Peso",
+  "stock": 5
+}, {
+  "id": 6,
+  "product_name": "Urban Zen Drinks",
+  "price": "Hryvnia",
+  "stock": 66
+}, {
+  "id": 7,
+  "product_name": "Ecolab - Solid Fusion",
+  "price": "Euro",
+  "stock": 72
+}, {
+  "id": 8,
+  "product_name": "Beef - Bones, Cut - Up",
+  "price": "Yuan Renminbi",
+  "stock": 93
+}, {
+  "id": 9,
+  "product_name": "Zucchini - Mini, Green",
+  "price": "Euro",
+  "stock": 57
+}, {
+  "id": 10,
+  "product_name": "Flour - Strong Pizza",
+  "price": "Yuan Renminbi",
+  "stock": 57
+}, {
+  "id": 11,
+  "product_name": "Napkin - Beverage 1 Ply",
+  "price": "Yuan Renminbi",
+  "stock": 65
+}, {
+  "id": 12,
+  "product_name": "Garbage Bag - Clear",
+  "price": "Euro",
+  "stock": 46
+}, {
+  "id": 13,
+  "product_name": "Bread - Italian Corn Meal Poly",
+  "price": "Yuan Renminbi",
+  "stock": 45
+}, {
+  "id": 14,
+  "product_name": "Fond - Chocolate",
+  "price": "Yuan Renminbi",
+  "stock": 82
+}, {
+  "id": 15,
+  "product_name": "Ham - Virginia",
+  "price": "Yen",
+  "stock": 81
+}, {
+  "id": 16,
+  "product_name": "Pepper - Orange",
+  "price": "Yuan Renminbi",
+  "stock": 22
+}, {
+  "id": 17,
+  "product_name": "Pineapple - Regular",
+  "price": "Euro",
+  "stock": 24
+}, {
+  "id": 18,
+  "product_name": "Beans - Black Bean, Dry",
+  "price": "Yuan Renminbi",
+  "stock": 32
+}, {
+  "id": 19,
+  "product_name": "Wine - White, Mosel Gold",
+  "price": "Ruble",
+  "stock": 15
+}, {
+  "id": 20,
+  "product_name": "Venison - Striploin",
+  "price": "Yuan Renminbi",
+  "stock": 62
+}, {
+  "id": 21,
+  "product_name": "Salmon - Atlantic, Skin On",
+  "price": "Euro",
+  "stock": 64
+}, {
+  "id": 22,
+  "product_name": "Wine - Mondavi Coastal Private",
+  "price": "Yuan Renminbi",
+  "stock": 64
+}, {
+  "id": 23,
+  "product_name": "Garlic - Primerba, Paste",
+  "price": "Peso",
+  "stock": 58
+}, {
+  "id": 24,
+  "product_name": "Nectarines",
+  "price": "Naira",
+  "stock": 47
+}, {
+  "id": 25,
+  "product_name": "Octopus - Baby, Cleaned",
+  "price": "Sol",
+  "stock": 66
+}, {
+  "id": 26,
+  "product_name": "Wooden Mop Handle",
+  "price": "Dollar",
+  "stock": 39
+}, {
+  "id": 27,
+  "product_name": "Eggs - Extra Large",
+  "price": "Yuan Renminbi",
+  "stock": 98
+}, {
+  "id": 28,
+  "product_name": "Nescafe - Frothy French Vanilla",
+  "price": "Dinar",
+  "stock": 62
+}, {
+  "id": 29,
+  "product_name": "Mace",
+  "price": "Yuan Renminbi",
+  "stock": 40
+}, {
+  "id": 30,
+  "product_name": "Goat - Leg",
+  "price": "Euro",
+  "stock": 62
+}]
+}
